@@ -22,7 +22,6 @@ A simple web page to show or hide a password using an eye icon.
 ## 📸 Live Demo
 
 [Click here](https://vignesh061.github.io/Hide-and-show-Password/)  
-*(Replace with your actual live link)*
 
 ## 🛠️ Technologies
 
